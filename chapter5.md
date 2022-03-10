@@ -53,21 +53,21 @@ If vertical openness separate concepts, then vertical density implies close asso
 - **If one function calls another, they should be vertically close, and the caller should be above the callee**, if at all possible.
 - Certain bits of code have a certain *conceptual affinity* with other bits. The affinity may base on direct dependence (one function calling another), or a function using a variable. But affinity may also be caused because a group of functions perform a similar operation. For example below functions have a strong conceptual affinity as they share a common scheme and perform variations of the same basic task.
 
-```java
-public class Assert {
-    static public void assertTrue(String message, boolean condition) {
-        ...
-    }
-    
-    static public void assertFalse(String message, boolean condition) {
-        ...
-    }
+    ```java
+    public class Assert {
+        static public void assertTrue(String message, boolean condition) {
+            ...
+        }
+        
+        static public void assertFalse(String message, boolean condition) {
+            ...
+        }
 
-    static public void assertFalse(boolean condition) {
-        ...
+        static public void assertFalse(boolean condition) {
+            ...
+        }
     }
-}
-```
+    ```
 
 ## Horizontal Formatting
 
