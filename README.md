@@ -10,3 +10,4 @@ My notes on the book `Clean Code`, by `Robert C. Martin`.
 - [Chapter 2: Meaningful Names](chapter2.md)
 - [Chapter 3: Functions](chapter3.md)
 - [Chapter 4: Comments](chapter4.md)
+- [Chapter 5: Formatting](chapter5.md)
