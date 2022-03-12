@@ -11,3 +11,4 @@ My notes on the book `Clean Code`, by `Robert C. Martin`.
 - [Chapter 3: Functions](chapter3.md)
 - [Chapter 4: Comments](chapter4.md)
 - [Chapter 5: Formatting](chapter5.md)
+- [Chapter 6: Objects and Data Structures](chapter6.md)
