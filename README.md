@@ -13,3 +13,4 @@ My notes on the book `Clean Code`, by `Robert C. Martin`.
 - [Chapter 5: Formatting](chapter5.md)
 - [Chapter 6: Objects and Data Structures](chapter6.md)
 - [Chapter 7: Error Handling](chapter7.md)
+- [Chapter 8: Boundaries](chapter8.md)
