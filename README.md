@@ -15,3 +15,4 @@ My notes on the book `Clean Code`, by `Robert C. Martin`.
 - [Chapter 7: Error Handling](chapter7.md)
 - [Chapter 8: Boundaries](chapter8.md)
 - [Chapter 9: Unit Tests](chapter9.md)
+- [Chapter 10: Classes](chapter10.md)
