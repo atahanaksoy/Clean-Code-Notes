@@ -17,3 +17,4 @@ My notes on the book `Clean Code`, by `Robert C. Martin`.
 - [Chapter 9: Unit Tests](chapter9.md)
 - [Chapter 10: Classes](chapter10.md)
 - [Chapter 11: Systems](chapter11.md)
+- [Chapter 12: Emergence](chapter12.md)
