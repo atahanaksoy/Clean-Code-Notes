@@ -2,8 +2,6 @@
 
 My notes on the book `Clean Code`, by `Robert C. Martin`.
 
-> Work in Progress 👷
-
 ### Table of Contents
 
 - [Chapter 1: Clean Code](chapter1.md)
